@@ -1,2 +1,2 @@
-# Websites
-These are all the Projects and Files for my Websites. Download them if you want.
+# My Websites
+This is the files for all of my websites. Do not copy source code without permisson!!!
